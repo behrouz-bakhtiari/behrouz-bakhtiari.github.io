@@ -2,7 +2,7 @@
 layout: post
 title: Test markdown
 subtitle: Just gonna leave this here for future references...!
-tags: [test]
+tags: [test, methods]
 bigimg: /img/path.jpg
 comments: true
 ---
