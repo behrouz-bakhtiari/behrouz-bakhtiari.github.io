@@ -42,7 +42,7 @@ foo(3)
 
 And here is the same code with syntax highlighting:
 
-```r
+```sql
 var foo = function(x) {
   return(x + 5);
 }
