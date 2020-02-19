@@ -42,7 +42,7 @@ foo(3)
 
 And here is the same code with syntax highlighting:
 
-```{r}
+```r
 var foo = function(x) {
   return(x + 5);
 }
@@ -51,7 +51,7 @@ foo(3)
 
 And here is the same code yet again but with line numbers:
 
-{% highlight linenos %}
+{% highlight r linenos %}
 var foo = function(x) {
   return(x + 5);
 }
