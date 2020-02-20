@@ -20,8 +20,8 @@ description: Anything music, data, statistics, OM, OR,... and of course, food!
 
 # List of links in the navigation bar
 navbar-links:
-  Tests:
-    - 'Test 1':
+  Tests: 
+    - Test 1:
         - Test 1-1-1: "http://google.com/" 
     - Test 2: 
   About Me: "aboutme"
