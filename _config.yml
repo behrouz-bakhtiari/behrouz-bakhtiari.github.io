@@ -20,13 +20,10 @@ description: Anything music, data, statistics, OM, OR,... and of course, food!
 
 # List of links in the navigation bar
 navbar-links:
-  Tests: 
-    - Test 1:
-        - Test 1-1-1: "http://google.com/" 
-    - Test 2: 
   About Me: "aboutme"
   Resources:
-    - My McMaster Page: "https://www.degroote.mcmaster.ca/profiles/behrouz-bakhtiari/"
+    - title: "My McMaster Page"
+      href: "https://www.degroote.mcmaster.ca/profiles/behrouz-bakhtiari/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Learn R markdown: "https://rmarkdown.rstudio.com/"
     - Other blogs that I follow: 
