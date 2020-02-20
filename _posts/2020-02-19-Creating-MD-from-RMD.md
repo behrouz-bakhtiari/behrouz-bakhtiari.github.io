@@ -40,11 +40,11 @@ In addition to that, you can also include plots, where you have the option to in
 plot(pressure)
 ```
 
-![](2020-02-19-Creating-MD-from-RMD_files/figure-markdown_github/pressure-1.png)
+![](/img/pressure-1.png)
 
 #### Excluding the code
 
-![](2020-02-19-Creating-MD-from-RMD_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](/img/unnamed-chunk-1-1.png)
 
 Remember, once you are done knitting the document, you need to \* upload your .md file into your Github repository (new post) \* upload any figure that's created by RStudio into the corresponding folder in your repository. **Note** the figures will be created in a separate folder once you knit your document! \* make sure that the path to the plots in your markdown will be changed to the location, where your images are stored within your respository.
 
