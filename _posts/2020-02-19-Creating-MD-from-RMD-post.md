@@ -58,6 +58,6 @@ Remember, once you are done knitting the document, you need to,
 -   upload any figure that's created by RStudio into the corresponding folder in your repository. **Note** the figures will be created in a separate folder once you knit your document!
 -   make sure that the path to the plots in your markdown will be changed to the location, where your images are stored within your respository.
 -   add a new front matter in the Github editor of your post.
--   finally watch for any errors or inconsistencies regarding the **title** of your post!
+-   finally watch for any errors or inconsistencies regarding the **title** of your post. I do not have a reason for this, but editing the title of the file will result in the title you use in the front matter to be used as the title of your post!
 
 Happy knitting!
