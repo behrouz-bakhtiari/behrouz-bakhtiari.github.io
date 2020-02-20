@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Creating Github Compatible markdowns using RStudio
-----
+title: Creating Github compatible markdowns using RStudio
+subtitle: a short introduction
+---
 
 You can create markdown documents (.md files) using RStudio. RStudio generally produces R Markdown documents (.Rmd files). However, with a simple modification, you can create your .md file with RStudio before pushing that into your Github Pages. For more details on using R Markdown see [rmarkdown](http://rmarkdown.rstudio.com).
 
