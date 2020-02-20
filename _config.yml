@@ -20,6 +20,9 @@ description: Anything music, data, statistics, OM, OR,... and of course, food!
 
 # List of links in the navigation bar
 navbar-links:
+  Tests:
+    - Test 1:
+    - Test 2: 
   About Me: "aboutme"
   Resources:
     - My McMaster Page: "https://www.degroote.mcmaster.ca/profiles/behrouz-bakhtiari/"
@@ -28,9 +31,7 @@ navbar-links:
     - Other blogs that I follow: 
       #  - R-bloggers: "https://www.r-bloggers.com/" 
       # - Shirin's Playground: "https://shiring.github.io/"
-  Tests:
-    - Test 1:
-    - Test 2: 
+
    
   
 # Image to show in the navigation bar - image must be a square (width = height)
