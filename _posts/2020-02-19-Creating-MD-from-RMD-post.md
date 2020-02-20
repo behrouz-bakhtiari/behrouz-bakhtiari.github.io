@@ -46,11 +46,11 @@ In addition to that, you can also include plots, where you have the option to in
 plot(pressure)
 ```
 
-![](/img/pressure-1.png)
+![plot](/img/pressure-1.png)
 
 #### Excluding the code
 
-![](/img/unnamed-chunk-1-1.png)
+![plot](/img/unnamed-chunk-1-1.png)
 
 Remember, once you are done knitting the document, you need to,
 
