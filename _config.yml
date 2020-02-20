@@ -22,12 +22,11 @@ description: Anything music, data, statistics, OM, OR,... and of course, food!
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - title: "My McMaster Page"
-      href: "https://www.degroote.mcmaster.ca/profiles/behrouz-bakhtiari/"
+    - My McMaster Page: "https://www.degroote.mcmaster.ca/profiles/behrouz-bakhtiari/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - Learn R markdown: "https://rmarkdown.rstudio.com/"
-    - Other blogs that I follow: 
-      #  - R-bloggers: "https://www.r-bloggers.com/" 
+    - Other blogs that I follow:
+        - R-bloggers: "https://www.r-bloggers.com/" 
       # - Shirin's Playground: "https://shiring.github.io/"
 
    
