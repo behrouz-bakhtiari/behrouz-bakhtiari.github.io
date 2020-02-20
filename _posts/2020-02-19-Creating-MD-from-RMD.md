@@ -1,3 +1,9 @@
+---
+layout: post
+title: Creating Github Markdowns in RStudio
+subtitle: a "very" short introduction
+---
+
 You can create markdown documents (.md files) using RStudio. RStudio generally produces R Markdown documents (.Rmd files). However, with a simple modification, you can create your .md file with RStudio before pushing that into your Github Pages. For more details on using R Markdown see [rmarkdown](http://rmarkdown.rstudio.com).
 
 All you need to do is include in the **front-matter** of your document that the variant of markdown you will be using is &gt;markdown\_github.
@@ -40,11 +46,11 @@ In addition to that, you can also include plots, where you have the option to in
 plot(pressure)
 ```
 
-![](2020-02-19-Creating-MD-from-RMD_files/figure-markdown_github/pressure-1.png)
+![](/img/pressure-1.png)
 
 #### Excluding the code
 
-![](2020-02-19-Creating-MD-from-RMD_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](/img/unnamed-chunk-1-1.png)
 
 Remember, once you are done knitting the document, you need to,
 
