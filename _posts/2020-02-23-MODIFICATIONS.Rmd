@@ -1,8 +1,8 @@
 ---
+layout: post
 title: A few steps in data cleaning
-output:
-  md_document:
-    variant: markdown_github
+subtitle: introducing two useful functions!
+tags: [blogging, R, RStudio]
 ---
 
 ```{r setup, include=FALSE}
