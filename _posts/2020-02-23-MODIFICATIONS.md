@@ -1,3 +1,10 @@
+---
+layout: post
+title: A few steps in data cleaning!
+subtitle: introducing two useful functions!
+tags: [blogging, R, RStudio]
+---
+
 If you have ever looked at messy data you probably know already that it could be very frustrating to try to clean it if you do not have the right tools at your disposal. Some people even try to do it **gasps** manually.
 
 Here I would like to introduce two very useful functions in the `tidyr` package used in `R`. These two functions are `tidyr::gather()` and `tidyr::spread`. The `gather()` function will help you convert a wide dataset to a long one and `spread()` does the opposite. They are both very useful and depending on your purpose you may use one or the other, or both!
