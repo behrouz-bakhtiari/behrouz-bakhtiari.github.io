@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A few steps in data cleaning
+title: A few steps in data cleaning!
 subtitle: introducing two useful functions!
 tags: [blogging, R, RStudio]
 ---
