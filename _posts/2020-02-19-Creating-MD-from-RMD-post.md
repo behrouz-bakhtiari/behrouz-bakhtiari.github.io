@@ -53,16 +53,8 @@ plot(pressure)
 
 ![plot](/img/unnamed-chunk-1-1.png)
 
-Remember, if you use RStudio you need to change the front matter of your document to the following and then knit, to produce an `.md` file.
->
----
-title: YOUR TITLE
-output:
-  md_document:
-    variant: markdown_github
----
-
-Cnce you are done knitting the document, you need to,
+Remember, if you use RStudio you need to change the front matter of your document to include `variant: markdown_github` and then knit, to produce an `.md` file.
+Once you are done knitting the document and have the `.md` file, you need to,
 
 -   upload your .md file into your Github repository (new post).
 -   upload any figure that's created by RStudio into the corresponding folder in your repository. **Note** the figures will be created in a separate folder once you knit your document!
